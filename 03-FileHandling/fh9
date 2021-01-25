@@ -1,7 +1,0 @@
-a=0
-with open ('NoEducation.txt') as file:
-   for line in file:
-       a=a+1
-       
-       print(a,line,end='')
-   
